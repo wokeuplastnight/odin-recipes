@@ -1,0 +1,25 @@
+* {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.list {
+    list-style: square;
+    list-style-position: inside;
+    text-align: center
+}
+
+.item2 {
+    list-style: disc;
+    list-style-position: inside;
+}
+
+.item3 {
+    list-style: circle;
+    list-style-position: inside;
+}
