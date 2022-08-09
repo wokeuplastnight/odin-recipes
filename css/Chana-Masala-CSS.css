@@ -4,6 +4,7 @@
 }
 
 h1 {
+    display: block;
     text-align: center;
     background-color: bisque;
 }
