@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    text-align: center;
+    background-color: bisque;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 100px;
+    padding: 5px;
+    height: auto;
+    width: 500px;
+}
